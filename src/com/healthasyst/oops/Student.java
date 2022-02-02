@@ -24,7 +24,7 @@ public class Student {
 	
 	
 	//setter method
-	public void setStudentPercentage(double studentPercenntage)
+	public void setStudentPercentage(double studentPercentage)
 	{
 		if(studentPercentage>0 && studentPercentage<=100)
 		{

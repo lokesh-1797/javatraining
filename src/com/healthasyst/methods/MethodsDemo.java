@@ -16,6 +16,7 @@ public class MethodsDemo {
 	}
 
 	public static void main(String[] args) {
+		
 		MethodsDemo obj=new MethodsDemo();
 		int radius=10;
 		double result=MethodsDemo.areaofcircle(radius);
